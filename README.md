@@ -1,5 +1,7 @@
 # Deployment of a Simple Static Website on an EC2 Instance using Terraform
 
+![alt text](aws-tf-1.png)
+
 ### Overview
 This project presents an efficient and automated approach to deploy a static website on an Amazon EC2 instance. Leveraging the power of Terraform, the infrastructure provisioning process, including EC2 instance creation and SSH key pair generation, is simplified and streamlined.
 
